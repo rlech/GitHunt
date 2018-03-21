@@ -75,7 +75,7 @@
     "react-timeago": "^3.0.0",
     "redux": "^3.5.2",
     "request-promise": "^3.0.0",
-    "sqlite3": "^3.1.4",
+    "sqlite3": "^4.0.0",
     "whatwg-fetch": "^1.0.0"
   }
 }
